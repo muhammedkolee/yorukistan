@@ -29,8 +29,8 @@ ssid = "your_wifi_name"              # Wifi ismi (değiştirilebilir)
 password = "your_wifi_password"      # Wifi şifresi (değiştirilebilir)
 
 # Telegram bot bilgileri
-bot_token = "7322934392:AAHusoJDqdXyBHnDPSYvxKGOixa8YAAuZxo"    # Bot ID'si (bot oluşturulduğunda değiştirilebilir!!!)
-chat_id = "968113580"                                           # Chat ID'si (kendi chatinize göre değiştirilebilir)
+bot_token = "your_bot_token"         # Bot ID'si (bot oluşturulduğunda değiştirilebilir!!!)
+chat_id = "your_caht_id"             # Chat ID'si (kendi chatinize göre değiştirilebilir)
 
 # Wifi'ya bağlan
 wlan = network.WLAN(network.STA_IF)
