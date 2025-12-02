@@ -1,6 +1,6 @@
 # 📡 Yörükistan — Pi Pico W Akıllı Sensör Ağı
 
-Bu proje, **Yrd. Doç. Dr. Hasan Serdar hocanın Kablosuz Ağ Teknolojileri** dersi kapsamında geliştirilmiştir.  
+Bu proje, **Dr. Ögr. Üyesi Hasan Serdar hocanın Kablosuz Ağ Teknolojileri** dersi kapsamında geliştirilmiştir.  
 Amaç, **Raspberry Pi Pico W** kartı ile çeşitli sensörlerden alınan verileri **Telegram botu** aracılığıyla uzaktan izleyebilmek ve kontrol edebilmektir.
 
 ---
